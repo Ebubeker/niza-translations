@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "balance": "Balansas",
+    "latest_activity": "Naujausia veikla",
+    "check_graph": "Patikrinkite diagramą",
+    "navbar": {
+      "dashboard": "Dashboard",
+      "explore": "Naršyti",
+      "wallets": "Piniginės",
+      "banks": "Bankai",
+      "transactions": "Protokolai",
+      "deposit": "Užstatas",
+      "withdraw": "Atsitraukti",
+      "trade": "Prekyba"
+    } 
+  }
+}

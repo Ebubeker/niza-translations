@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "balance": "Balance",
+    "latest_activity": "Última actividad",
+    "check_graph": "Consultar gráfico",
+    "navbar": {
+      "dashboard": "Dashboard",
+      "explore": "Explorar",
+      "wallets": "Carteras",
+      "banks": "Bancos",
+      "transactions": "actas",
+      "deposit": "Depósito",
+      "withdraw": "Retirar",
+      "trade": "Comercio"
+    } 
+  }
+}

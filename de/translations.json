@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "balance": "Stand",
+    "latest_activity": "Letzte Aktivität",
+    "check_graph": "Überprüf der Grafik",
+    "navbar": {
+      "dashboard": "Dashboard",
+      "explore": "Entdecken",
+      "wallets": "Geldbörsen",
+      "banks": "Banken",
+      "transactions": "Transaktionen",
+      "deposit": "Kaution",
+      "withdraw": "Zurückziehen",
+      "trade": "Handel"
+    } 
+  }
+}
